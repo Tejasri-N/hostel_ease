@@ -7,7 +7,7 @@ class RoomSwapPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Room Swap Request')),
-      body: const Center(child: Text('Room Swap Request Page')),
+      body: const Center(child: Text('Room Swap Page')),
     );
   }
 }

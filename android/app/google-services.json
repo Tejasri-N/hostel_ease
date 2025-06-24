@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "190237776577",
+    "project_id": "hostel-ease-42729",
+    "storage_bucket": "hostel-ease-42729.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190237776577:android:693136259f163db1f01240",
+        "android_client_info": {
+          "package_name": "com.example.hostel_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190237776577-rb78bogbk9v34comd15tn5pmtev3k4i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KIfsgdeKygu_smWwpdlfM1pwa6tWDLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190237776577-rb78bogbk9v34comd15tn5pmtev3k4i9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190237776577-mj5c969tes8qo6ac2vn1ov7m8m7ooick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hostelManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
